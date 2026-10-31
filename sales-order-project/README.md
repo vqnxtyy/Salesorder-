@@ -114,7 +114,7 @@ Read the updated local README. This example assumes you made no competing local 
 
 If GitHub access, authentication, or network service blocks a push, keep the working local project and commits. Later, sign in through your configured method, confirm the empty remote URL with `git remote -v`, rerun `git push -u origin main`, and verify the files and commits on GitHub. Do not treat publication as complete until that check succeeds.
 hello world
-
+mridula 
 ## Explain your project to another analyst
 
 Point to the file containing the price rule, the file containing one order's state and methods, the script to run, the input data, the usage notes, and the ignore rules. Then explain where a working edit, a staged change, a local commit, and the GitHub-hosted copy each live. Which one can a colleague see after a successful push?
