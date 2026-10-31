@@ -113,6 +113,7 @@ Read the updated local README. This example assumes you made no competing local 
 `git init` starts tracking this existing local folder. `git clone` instead downloads an existing remote repository **and its history** into a new folder; a trainer may demonstrate cloning your published repo to a separate location. A branch is a separate line of work; recognizing `main` is enough here.
 
 If GitHub access, authentication, or network service blocks a push, keep the working local project and commits. Later, sign in through your configured method, confirm the empty remote URL with `git remote -v`, rerun `git push -u origin main`, and verify the files and commits on GitHub. Do not treat publication as complete until that check succeeds.
+hello world
 
 ## Explain your project to another analyst
 
